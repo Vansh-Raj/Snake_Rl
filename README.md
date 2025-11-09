@@ -119,4 +119,4 @@ Video("gameplay.mp4", embed=True)
 Developed as part of an academic project exploring **Deep Reinforcement Learning applications** in autonomous decision systems.  
 This project illustrates the potential of AI to learn complex behaviors from experience — a foundational step toward adaptive, intelligent control systems.
 
-🧠 *"The more the agent plays, the smarter it gets — not because it was told how, but because it learned why."*
+ *"The more the agent plays, the smarter it gets — not because it was told how, but because it learned why."*
